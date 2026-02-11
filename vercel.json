@@ -9,8 +9,18 @@
       "destination": "/support.html"
     },
     {
-      "source": "/plain/privacy-policy",
+      "source": "/apps/privacy-policy",
+      "destination": "/privacy-policy.html"    },
+    {
+      "source": "/privacy-policy",
       "destination": "/privacy-policy.html"
-    }
+    },
+    {
+      "source": "/app/terms-of-service",
+      "destination": "/terms-of-service.html"
+    },
+    {
+      "source": "/terms-of-service",
+      "destination": "/terms-of-service.html"    }
   ]
 }
