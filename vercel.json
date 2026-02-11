@@ -9,7 +9,7 @@
       "destination": "/support.html"
     },
     {
-      "source": "/apps/privacy-policy",
+      "source": "/app/privacy-policy",
       "destination": "/privacy-policy.html"    },
     {
       "source": "/app/terms-of-service",
