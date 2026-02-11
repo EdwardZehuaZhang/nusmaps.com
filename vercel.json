@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/support",
+      "destination": "/support.html"
+    },
+    {
+      "source": "/app/privacy-policy",
+      "destination": "/privacy-policy.html"
+    }
+  ]
+}
